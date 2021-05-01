@@ -3,7 +3,7 @@
 
 <b>Proposed Algorithm to perform the objectives: K Prototype Clustering</b>
 
-The steps in the life cycle of this data science project is as follows:
+The steps in the life cycle of this data science project are as follows:
 1. EDA (Exploratory Data Analysis)
 2. Data Preprocessing
 3. ML Model Blueprint
